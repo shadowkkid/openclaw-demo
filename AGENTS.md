@@ -50,6 +50,7 @@ cd frontend && npm run dev
 
 ### 通用
 
+- 主力研发工具：**OpenCode**（如已安装）
 - 文件命名使用 snake_case（Python）和 kebab-case（TypeScript）
 - 每个模块/组件应职责单一
 - 提交前确保代码可正常运行，无明显报错
